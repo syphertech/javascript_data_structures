@@ -1,0 +1,14 @@
+{
+  "name": "DataStructures",
+  "version": "1.0.0",
+  "description": "Data Structures implemented in Javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "maxwell k",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
